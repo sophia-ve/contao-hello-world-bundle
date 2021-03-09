@@ -2,6 +2,6 @@
 
 <?php $this->block('content'); ?>
 
-<?= $this->message; ?>
+<p><?= $this->message; ?></p>
 
 <?php $this->endblock(); ?>
