@@ -2,6 +2,6 @@
 
 <?php $this->block('content'); ?>
 
-<p><?= $this->message; ?></p>
+<p class="align-center"><?= $this->message; ?></p>
 
 <?php $this->endblock(); ?>
