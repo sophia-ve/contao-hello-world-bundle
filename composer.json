@@ -19,9 +19,9 @@
   },
   "require-dev": {
     "contao/manager-plugin": "^2.0",
-    "friendsofphp/php-cs-fixer": "^2.12",
-    "phpunit/phpunit": "^5.7.26",
-    "symfony/phpunit-bridge": "^3.2"
+    "contao/easy-coding-standard": "^2.0",
+    "phpunit/phpunit": "^8.4",
+    "symfony/phpunit-bridge": "^4.4 || ^5.1"
   },
   "extra": {
     "contao-manager-plugin": "Sophiave\\ContaoHelloWorldBundle\\ContaoManager\\Plugin"
